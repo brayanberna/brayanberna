@@ -1,4 +1,4 @@
-### Ingeniero Civil en Computación e Informática, orientado a diseñar, desarrollar y gestionar soluciones computacionales integrada
+### Ingeniero Civil en Computación e Informática, orientado a diseñar, desarrollar y gestionar soluciones computacionales.
 
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
