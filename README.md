@@ -1,4 +1,4 @@
-### Ingeniero Civil en Computación e Informática, orientado a diseñar, desarrollar y gestionar soluciones computacionales.
+### Hola! Soy Brayam Berna Rojas, Ingeniero Civil en Computación e Informática.
 
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
