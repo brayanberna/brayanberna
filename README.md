@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/brayanberna/" align="center">
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
+<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 
 
 <!--
