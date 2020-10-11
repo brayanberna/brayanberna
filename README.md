@@ -10,7 +10,7 @@
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
 
-# Conéctate conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# Conéctate conmigo
 
 <a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a>
 <!--
