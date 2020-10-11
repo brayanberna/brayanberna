@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanberna&show_icons=true)
 
 #### Conéctate conmigo 📫
-<a href="https://www.linkedin.com/in/brayanberna/">
+<a href="https://www.linkedin.com/in/brayanberna/" align="center">
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
 
