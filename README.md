@@ -1,6 +1,6 @@
 ### Hola<img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Brayam Berna, Ingeniero Civil en Computación e Informática.
 
-![Top Langs <p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
+![Top Langs
 
 <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanberna&show_icons=true)
 
