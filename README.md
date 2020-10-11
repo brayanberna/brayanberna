@@ -1,5 +1,8 @@
 ### Hola! Soy Brayam Berna Rojas, Ingeniero Civil en Computación e Informática. <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<a href="https://github.com/brayanberna/brayanberna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanberna&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
