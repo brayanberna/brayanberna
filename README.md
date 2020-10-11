@@ -10,6 +10,11 @@
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
 
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
