@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanberna&show_icons=true)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conéctate conmigo </h3>
 <a href="https://www.linkedin.com/in/brayanberna/">
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
