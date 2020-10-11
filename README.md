@@ -6,8 +6,12 @@
 <a href="https://www.linkedin.com/in/brayanberna/" align="center">
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
-&nbsp; &nbsp;
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="https://www.instagram.com/b.ticer.r/">
+    <img alt="Shubhamdeep Jha | Instagram" width="50px" src="https://www.quicksocialmedia.co.uk/cms/instagram-master.png" />
+</a>
+<a href="mailto:brorie3@uncc.edu">
+    <img alt="Shubhamdeep Jha | Gmail" width="50px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
+</a>
 
 
 <!--
