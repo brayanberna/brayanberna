@@ -2,11 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanberna&show_icons=true)
 
-<!--
-<p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
-<p align=center><a href="https://imgur.com/9cyvBLo"><img src="https://i.imgur.com/9cyvBLo.png" title="source: imgur.com" /></a></p>
 
-!-->
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
