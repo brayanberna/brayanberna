@@ -1,4 +1,4 @@
-### Hola! Soy Brayam Berna Rojas, Ingeniero Civil en Computación e Informática. 👋
+### Hola! Soy Brayam Berna Rojas, Ingeniero Civil en Computación e Informática. <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
