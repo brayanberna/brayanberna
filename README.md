@@ -12,9 +12,7 @@
 
 # Conéctate conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a>
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
