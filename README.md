@@ -6,7 +6,7 @@
 
 <img src="https://github.com/brayanberna/brayanberna/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanberna&show_icons=true)
 
 <br><br>
 <!--
