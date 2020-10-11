@@ -6,9 +6,8 @@
 <a href="https://www.linkedin.com/in/brayanberna/" align="center">
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
-
+<img src="https://komarev.com/ghpvc/?username=brayanberna" alt="anandmainali" />
 # ![](https://komarev.com/ghpvc/?username=brayanberna&color=79b8ff)
-
 <!--
 **brayanberna/brayanberna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
